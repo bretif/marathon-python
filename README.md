@@ -31,7 +31,7 @@ pip install marathon
 
 #### From GitHub
 ```bash
-pip install -e git+git@github.com:thefactory/marathon-python.git#egg=marathon
+pip install git+https://github.com/bretif/marathon-python.git#egg=marathon
 ```
 
 #### From source
